@@ -1,0 +1,16 @@
+{
+  "name": "pasteleria",
+  "version": "1.0.0",
+  "description": "E-commerce de productos alimenticios ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+    "sass:watch": "sass --watch scss/main.scss css/main.css"
+  },
+  "author": "Lucas Ariel Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
